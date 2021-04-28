@@ -109,7 +109,7 @@ git merge dev-b
 ```
 If at the time of "merge" there are conflicts (two different versions of the same part of the code between both branches) we do the necessary changes and then we use the `git add .` command, so the changes will be moved to the *staging area*.
 ```bash
-git add .
+git linea de memes
 ```
 Now we can do a `git commit "A brief description"`.
 You could do a `git log --oneline` in order to check if everything looks fine and there is not more conflicts.
